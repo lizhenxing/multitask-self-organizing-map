@@ -1,1 +1,7 @@
-Please use this file to update SelfOrganizingMap.java in weka.
+This program contains two parts: Multitask Self-Organizing Map(SelfOrganizingMap.java) and test program(c.java).
+1. You can create new program by replacing self-organizing map in weka with Multitask Self-Organizing Map in this directory.
+2. Test Program
+(1)Export Multitask Self-Organizing Map as 'JAR file' and still name it as 'SelfOrganizingMap.jar'.
+(2)Create a new Java project and paste c.java in this java project. Add External JARs-weka.jar, SelfOrganizingMap.jar and chiSquaredAttributeEval.jar. 
+Then, readers can get similar result as in paper.
+For weka detail, please visit http://weka.wikispaces.com.
